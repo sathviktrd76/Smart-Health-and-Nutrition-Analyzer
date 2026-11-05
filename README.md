@@ -1,4 +1,4 @@
-<h1 align="center">🥗 Smart Health & Nutrition Analyzer</h1>
+<h1 align="center"> Smart Health & Nutrition Analyzer</h1>
 
 <p align="center">
   A menu-driven C application for tracking food intake, analyzing nutrition,
